@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropBoxTest", "DropBoxTest\DropBoxTest.csproj", "{A81FDB78-D9A4-44EB-89B2-8143B7214ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81FDB78-D9A4-44EB-89B2-8143B7214ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81FDB78-D9A4-44EB-89B2-8143B7214ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81FDB78-D9A4-44EB-89B2-8143B7214ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81FDB78-D9A4-44EB-89B2-8143B7214ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A2871A0-954D-4E0F-9002-9C703BEC865F}
+	EndGlobalSection
+EndGlobal
